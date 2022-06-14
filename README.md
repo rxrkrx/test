@@ -14,4 +14,4 @@ Test Code
 
 Test 1234567890
 
-!(IMage)[http://i.stack.imgur.com/2hTqa.png]
+![IMage](http://i.stack.imgur.com/2hTqa.png)
